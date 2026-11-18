@@ -1,0 +1,12 @@
+# OS / editor / tooling
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/
+*~
+*.tmp
+
+# Office lock files
+~$*
